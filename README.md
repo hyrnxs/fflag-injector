@@ -11,6 +11,10 @@ free, open-source and legit 100%
 
 navigate to <a href="https://github.com/hyrnxs/fflag-injector/releases">releases</a> to download it
 
+# source
+
+type `git clone https://github.com/hyrnxs/fflag-injector` or straight up download it from github
+
 # used apps or other
 
 brain 🧠: used to create and code ts program for ur ass
